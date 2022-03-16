@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/flutterflow/carshare/BuildConfig.java
- com.flutterflow.carshare.BuildConfig
